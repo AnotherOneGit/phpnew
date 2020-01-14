@@ -1,0 +1,12 @@
+html, body {
+    /*grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));*/
+    /*display: grid;*/
+    /*grid-gap: 1em;*/
+
+    background: darkcyan;
+}
+
+.container {
+    text-align: center;
+    font-size: 18px;
+}
